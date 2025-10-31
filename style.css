@@ -72,3 +72,44 @@ body, html {
     background: rgba(255, 255, 255, 0.8);
     box-sizing: border-box;
 }
+
+.desktop-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.desktop-icon img {
+    width: 48px;
+    height: 48px;
+}
+
+.desktop-icon span {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.taskbar-icon {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.taskbar-icon:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.taskbar-icon img {
+    width: 24px;
+    height: 24px;
+}

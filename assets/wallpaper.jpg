@@ -11,12 +11,12 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/all.css" />
 <link rel="shortcut icon" href="/images/common/favicon.ico" />
 <link rel="canonical" href="https://4kwallpapers.com/images/walls/5658.jpg" />
-<script type="7c55bf463edec089842e87f3-text/javascript" src="/assets/jquery2.js"></script>
-<script async type="7c55bf463edec089842e87f3-text/javascript" src="/assets/functions.js"></script>
-<script async type="7c55bf463edec089842e87f3-text/javascript" src="/assets/custom.js"></script>
+<script type="086428d69f781e8122f2c850-text/javascript" src="/assets/jquery2.js"></script>
+<script async type="086428d69f781e8122f2c850-text/javascript" src="/assets/functions.js"></script>
+<script async type="086428d69f781e8122f2c850-text/javascript" src="/assets/custom.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76243221-5" type="7c55bf463edec089842e87f3-text/javascript"></script>
-<script type="7c55bf463edec089842e87f3-text/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76243221-5" type="086428d69f781e8122f2c850-text/javascript"></script>
+<script type="086428d69f781e8122f2c850-text/javascript">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -133,5 +133,5 @@ Categories <i class="fa fa-bars"></i><i class="fa fa-times"></i>
 </div>
 </div>
 
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7c55bf463edec089842e87f3-|49" defer></script></body>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="086428d69f781e8122f2c850-|49" defer></script></body>
 </html>
