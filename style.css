@@ -38,3 +38,37 @@ body, html {
 .start-menu-button:hover {
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+.start-menu {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 500px;
+    height: 600px;
+    background: rgba(240, 240, 240, 0.8);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.start-menu.hidden {
+    display: none;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+}
